@@ -1,0 +1,75 @@
+
+.container{
+   height: 600px;
+   width: 800px;
+   background-color: rgb(89, 89, 192);
+   margin: 90px;
+   align-items: center;
+   display: flex;
+   margin-top: 40px;
+   margin-left: 24%;
+}
+.main-body{  
+     height: 500px;
+    width: 710px;
+    padding: 5px;
+    margin: 40px;
+    border-radius: 30px;
+    background-color: white;
+}
+.main-content{
+    display: inline-block;
+    color: blue;
+    height: 280px;
+    width: 350px;
+    padding: 5px;
+    margin: 15px;
+}
+
+.btn{
+    color: beige;
+    background-color: rgb(243, 76, 76);
+    border: none;
+    padding: 5px;
+    border-radius: 2px;
+}
+
+.image{
+    display: inline-block;
+   
+}
+.image img{
+    height: 300px;
+    width: 300px;
+}
+nav{
+    display: flex;
+    height: 90px;
+    width: 720px;
+}
+img{
+    height: 80px;
+    width: 80px;
+}
+.nav-content{
+    margin: 15px;
+    font-size: x-small;
+   
+}
+.contain-1{
+    display:flex;
+    align-self:center;
+}
+.empty{
+    flex: 0 0 150% ;
+}
+
+.icon{
+    display: flex;
+    font-size: x-large;
+    margin: 5px;
+
+}
+.social-media{
+    padding: 10px;
+}
